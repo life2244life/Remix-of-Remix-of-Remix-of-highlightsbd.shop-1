@@ -1,0 +1,7 @@
+RewriteEngine On
+# block direct access to config/includes
+RewriteRule ^(config|includes)/ - [F,L]
+
+<Files "*.php">
+    Header set X-Content-Type-Options "nosniff"
+</Files>

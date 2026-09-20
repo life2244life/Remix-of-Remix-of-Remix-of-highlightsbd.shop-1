@@ -1,0 +1,17 @@
+# EIDLIP
+
+> EIDLIP is a Bangladeshi unisex clothing brand offering premium shirts, t-shirts, pants and everyday wear with cash on delivery across Bangladesh.
+
+## Pages
+
+- [Home](/): Shop premium unisex clothing — shirts, t-shirts, pants and everyday wear.
+- [About](/about): The EIDLIP story, brand values and craftsmanship.
+- [Contact](/contact): Get in touch with the EIDLIP team.
+- [Blog](/blog): Style guides, fashion tips and brand updates.
+
+## Optional
+
+- [Shipping Policy](/shipping-policy): Delivery timeframes and charges across Bangladesh.
+- [Refund & Return Policy](/refund-policy): Return eligibility, exchange and refund process.
+- [Terms & Conditions](/terms): Orders, payments and usage terms.
+- [Privacy Policy](/privacy-policy): How we collect and protect your data.
